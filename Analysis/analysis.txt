@@ -1,0 +1,1 @@
+By inspection of the output, the 5 most correlated signals (in order of the most correlated) are signals: 20, 15, 1, 17, 2.
